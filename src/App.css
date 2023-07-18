@@ -1,0 +1,31 @@
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.countdown{
+  opacity: 0.8;
+  text-align: center;
+
+  
+}
+
+.overflow{ 
+  overflow:auto;
+  height: 300px;
+
+}
+
+.head,.head-hover:hover{
+  color:#fff!important;
+  background-color:rgb(160, 22, 22)!important}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+  }
+}
