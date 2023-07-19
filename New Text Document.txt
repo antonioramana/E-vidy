@@ -1,13 +1,1 @@
-#Run API
-to run API, cd API, env HOST="localhost"
-USER="root"
-PASSWORD=""
-DATABASE="amidy"
-PORT=5000
-JWT_SECRET="mysecret"
-,
-npm install ,npm run start,
-#run SOCKET
- cd SOCKET.IO,npm install,.env(PORT=3000)
-#run client 
-npm install, npm run start
+
